@@ -1,0 +1,5 @@
+_ Work flow: local --(git add tên_file_mới)--> stage --(git commit -m "comment")--> storage --(git push)--> git
+
+_ Clone: git clone https://github.com/xhaitungx/news-app.git
+_ Cập nhật code từ git: git pull
+_ Đưa code lên git: git push
